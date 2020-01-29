@@ -9,5 +9,5 @@ A simple boilerplate with fabric mockstub for unit testing
 
 chmod 777 startFabric.sh
 
-./start.sh
+./startFabric.sh
 ```
